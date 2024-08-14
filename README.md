@@ -155,6 +155,7 @@ WHERE Attrition = 'Yes'
 GROUP BY EducationField;
 
 
+
 ## 7. Insights
 
 - Focus on areas with high attrition rates, particularly within specific departments and job roles, to develop targeted retention strategies.
