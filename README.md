@@ -153,6 +153,7 @@ SELECT EducationField, COUNT(*) AS AttritionCount
 FROM Hr
 WHERE Attrition = 'Yes'
 GROUP BY EducationField;
+```
 
 
 
